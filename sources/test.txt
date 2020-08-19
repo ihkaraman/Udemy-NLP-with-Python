@@ -3,3 +3,5 @@ This is a test file.
 This line is the end of this test document.
 this is a new line
 this is the second new line
+This is more text being appended to test.txt
+And another line here.
