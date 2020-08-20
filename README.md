@@ -1,6 +1,6 @@
 # Udemy - NLP-with-Python
-Instructor : Jose Portilla
-About: Machine Learning, Spacy, NLTK, SciKit-Learn, Deep Learning, and more to conduct Natural Language Processing
+Instructor : Jose Portilla            
+About: Machine Learning, Spacy, NLTK, SciKit-Learn, Deep Learning, and more to conduct Natural Language Processing           
 
 Table of Content:       
 01 - Working with txt Files      
